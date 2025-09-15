@@ -14,8 +14,8 @@ class AboutDialog(QDialog):
                 <b>ScribeOne</b><br/>
                 Minimal, modern single‑document editor<br/>
                 <br/>
-                © 2025 ScribeOne Authors<br/>
-                License: AGPL-3.0-or-laterz
+                © 2025 w33d <br/>
+                License: AGPL-3.0-or-later
                 """
             )
         )
