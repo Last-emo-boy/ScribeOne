@@ -2,7 +2,7 @@
 name = "scribeone"
 version = "0.1.0"
 description = "ScribeOne – Minimal, modern single-document editor (PyQt6)"
-authors = [{ name = "ScribeOne Authors" }]
+authors = [{ name = "w33d" }]
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
